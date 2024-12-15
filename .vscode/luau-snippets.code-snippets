@@ -1,0 +1,8 @@
+{
+	"Package Optimization Comment": {
+		"scope": "luau",
+		"prefix": "comment",
+		"description": "A comment to further improve luau's performance.",
+		"body": "--!nocheck\n--!native\n\n"
+	}
+}
