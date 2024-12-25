@@ -1,0 +1,5 @@
+!*.lua
+*.d.lua
+
+!*.luau
+*.d.luau
