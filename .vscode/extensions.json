@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"biomejs.biome",
+		"streetsidesoftware.code-spell-checker",
+		"EditorConfig.EditorConfig",
+		"JohnnyMorganz.luau-lsp",
+		"christian-kohler.path-intellisense",
+		"roblox-ts.vscode-roblox-ts",
+		"evaera.vscode-rojo",
+		"JohnnyMorganz.stylua"
+	]
+}

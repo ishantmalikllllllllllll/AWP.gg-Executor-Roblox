@@ -1,0 +1,19 @@
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"npm.packageManager": "pnpm",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "biomejs.biome",
+	"editor.codeActionsOnSave": {
+		"quickfix.biome": "always",
+		"source.removeUnusedImports": "always",
+		"source.organizeImports.biome": "always"
+	},
+	"[lua]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	},
+	"[luau]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	}
+}
